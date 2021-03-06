@@ -1,0 +1,2 @@
+# technews
+One page
